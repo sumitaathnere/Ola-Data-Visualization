@@ -116,6 +116,7 @@ Cancellation Rate: 28.01%
 Top 5 Customers contributed to 8% of total revenue
 
 ====================================
+
 📈 Dashboard Features
 
 1. Ride Volume Over Time: A line  chart showing the number of rides per day/week.
