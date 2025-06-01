@@ -91,6 +91,7 @@ Prime SUVs, signaling that customers have a higher
 satisfaction level with these vehicle types.
 
 ========================================================
+
 🔧 Tools & Technologies
 
 Power BI – for data visualization and dashboard creation
@@ -98,3 +99,18 @@ Power BI – for data visualization and dashboard creation
 SQL – for data extraction, transformation, and advanced queries
 
 Excel/CSV – as the primary data source
+
+=======================
+
+🔍 Business Insights
+
+Total Bookings: 71,201
+Success Bookings: 44.271 (62.18%)
+Cancellation Rate: 28.01%
+Top 5 Customers contributed to 8% of total revenue
+
+====================================
+
+📁 File
+ – Power BI dashboard file
+ 
