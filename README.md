@@ -12,3 +12,8 @@ Booking Status Breakdown: Analyzes the status of bookings (e.g., successful, can
 Ride Volume Over Time: Visualizes the ride volume over time to identify trends, peaks, and troughs.
 
 ![Ola dashboard](https://github.com/user-attachments/assets/0d835198-654b-4031-bb52-6f5d430c066d)
+Key Insight:
+
+Successful Bookings: The sheet shows that successful bookings 
+are high, indicating that the platform is operating 
+efficiently with a good number of completed rides.
