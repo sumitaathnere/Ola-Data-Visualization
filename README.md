@@ -139,3 +139,11 @@ cancellations by customers and drivers.
 each completed ride, analyzing correlations.
 
 10. 📅 Date Slicers – Enables users to filter and analyze metrics dynamically based on selected date ranges
+================================================
+
+## 📊 Key DAX Measures
+
+- Canceled_Booking
+- Canceled_Percentage
+- Total_Bookings
+
