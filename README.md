@@ -110,7 +110,26 @@ Cancellation Rate: 28.01%
 Top 5 Customers contributed to 8% of total revenue
 
 ====================================
+📈 Dashboard Features
 
-📁 File
- – Power BI dashboard file
- 
+1. Ride Volume Over Time: A line  chart showing the number of rides per day/week.
+  
+2. Booking Status Breakdown: A doughnut chart displaying the proportion of different
+booking statuses (success, cancelled by the customer, cancelled by the driver, etc.).
+
+3. Revenue by Payment Method: A stacked bar chart displaying total revenue based on
+payment methods (Cash, UPI, Credit Card, etc.).
+
+4. Top 5 Customers by Total Booking Value: A leaderboard visual listing customers who have
+spent the most on bookings.
+
+5. cancelled Rides Reasons: A pie chart that highlights the common reasons for ride
+cancellations by customers and drivers.
+
+6. Ride Distance Distribution Per Day: A histogram or scatter plot showing the distribution of
+ride distances for different Dates.
+
+7. Driver or customer Rating Distribution: A box plot visualizing the spread of driver ratings and customer rating  for different vehicle types.
+
+8. Customer vs. Driver Ratings: A scatter plot comparing customer and driver ratings for
+each completed ride, analyzing correlations.
