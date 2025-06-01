@@ -15,6 +15,7 @@ Ride Volume Over Time: Visualizes the ride volume over time to identify trends, 
 ![Ola dashboard](https://github.com/user-attachments/assets/5644596d-76d3-4551-be14-b38c42c724f0)
 
 Key Insight:
+
 Successful Bookings: The sheet shows that successful bookings 
 are high, indicating that the platform is operating 
 efficiently with a good number of completed rides.
