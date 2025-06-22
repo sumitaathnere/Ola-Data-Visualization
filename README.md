@@ -148,3 +148,12 @@ each completed ride, analyzing correlations.
 - Canceled_Percentage
 - Total_Bookings
 
+=================================
+  
+📬 Contact If you have any questions or suggestions, feel free to reach out! 😊
+
+Email:-sumitaathnere7@gmail.com
+
+⭐ Enjoy Exploring the Hospital Data with Power BI! 🚀
+  
+
