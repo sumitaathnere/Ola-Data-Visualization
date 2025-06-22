@@ -97,6 +97,16 @@ vehicles receive the highest ratings, followed closely by
 Prime SUVs, signaling that customers have a higher 
 satisfaction level with these vehicle types.
 
+==================================
+
+Conclusion:
+
+Analyzed 50K+ bookings with 82% success rate; Prime Sedan led with 40% completions and 43% revenue 
+
+Found Cash (45%) as top payment mode, followed by UPI (30%) and cards 
+
+Identified 65% cancellations by customers; Prime Plus (4.01★) and SUV (4.0★) had highest ratings 
+
 ========================================================
 
 🔧 Tools & Technologies
